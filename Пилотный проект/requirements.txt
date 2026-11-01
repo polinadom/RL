@@ -2,3 +2,5 @@ minigrid==3.2.0
 gymnasium==1.4.0
 numpy==2.4.6
 matplotlib==3.11.2
+stable-baselines3==2.9.2
+torch==2.15.0
